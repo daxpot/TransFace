@@ -2,6 +2,6 @@
 
 http://messcode.github.io/2016/04/17/switch-faces-using-python/
 
-http://cdmd.cnki.com.cn/Article/CDMD-10287-1014005692.htm
+http://xuewen.cnki.net/CMFD-1011269868.nh.html
 
 http://ieeexplore.ieee.org/document/5344117/
