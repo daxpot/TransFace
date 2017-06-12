@@ -7,3 +7,5 @@ http://xuewen.cnki.net/CMFD-1011269868.nh.html
 http://ieeexplore.ieee.org/document/5344117/
 
 http://xuewen.cnki.net/CMFD-1011192134.nh.html
+
+http://www.google.sh/patents/CN102376100A?cl=zh
